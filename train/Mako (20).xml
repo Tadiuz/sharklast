@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mako la buena</folder>
+	<filename>Mako (20).JPG</filename>
+	<path>C:\Users\Samuel\Desktop\Mako la buena\Mako (20).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>614</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mako</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>155</ymin>
+			<xmax>642</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

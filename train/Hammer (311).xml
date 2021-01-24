@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cornuda Lisa 747 fotos</folder>
+	<filename>Hammer (311).JPG</filename>
+	<path>C:\Users\Usuario\Pictures\SharkID Label\Cornuda Lisa 747 fotos\Hammer (311).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>122</ymin>
+			<xmax>416</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

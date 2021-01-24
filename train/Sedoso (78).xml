@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sedoso la buena</folder>
+	<filename>Sedoso (78).jpg</filename>
+	<path>C:\Users\Samuel\Desktop\Sedoso la buena\Sedoso (78).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>922</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sedoso</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>246</ymin>
+			<xmax>922</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

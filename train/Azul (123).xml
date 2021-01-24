@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Azul 1020 fotos</folder>
+	<filename>Azul (123).jpg</filename>
+	<path>C:\Users\Usuario\Pictures\SharkID Label\Azul 1020 fotos\Azul (123).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>117</ymin>
+			<xmax>618</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

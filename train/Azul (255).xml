@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Azul 1020 fotos</folder>
+	<filename>Azul (255).jpg</filename>
+	<path>D:\Downloads2\drive-download-20210124T050440Z-001\Azul - Hammer Nuevo\Azul 1020 fotos\Azul (255).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Azul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>107</ymin>
+			<xmax>680</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
